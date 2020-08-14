@@ -7,6 +7,7 @@ public class Posto_relatorio {
         int qtdAbastecimentos = 2;
 
         Scanner scanner = new Scanner(System.in);
+        
         String[][] dados = new String[50][3];
 
         for (int i = 0; i < qtdAbastecimentos; i++) {
