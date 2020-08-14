@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Posto_relatorio {
 
     public static void RelatorioCombustivel() {
+        
         int qtdAbastecimentos = 2;
 
         Scanner scanner = new Scanner(System.in);
